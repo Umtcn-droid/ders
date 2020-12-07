@@ -1,29 +1,10 @@
-
-
 body{
     background-color: powderblue;
 }
 
-p {
-    
-}
-
-#wrapper {
-    width: 90%;
-    margin: auto;
-}
-
-#ben {
-    font-size: 300%;
-    color: darkslateblue;
-    
-}
-h2 {
-    float: left;
-}
-
 nav {
     background-color:black;
+    
 }
 
 nav ul {
@@ -41,22 +22,37 @@ nav ul li {
     font-size: 200%;
 }
 
-nav ul li a:hover{
-    color: cornsilk;
-}
-table{
-    width: 40%;
-    float: left;
-    font-size: 250%;
-    border: 150px;
-    background-color: white;
+#wrapper {
+    width: 90%;
+    margin: auto;
 }
 
-#me{
-    width: 30%;
-    float: right;
+nav ul li a:hover{
+    color: cornsilk;
 }
 
 .cizgi{
     text-decoration: none;
+}
+
+.chopper {
+   height: 50%;
+   width: 30%;
+   margin: 1% 10% 5% 10%;
+   text-align: center;
+   float: right;
+   border: darkseagreen;
+}
+
+#text1{
+    
+}
+
+.hell {
+    height: 15%;
+    width: 30%;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+    float: right;
 }
